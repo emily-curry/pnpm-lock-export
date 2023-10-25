@@ -28,7 +28,7 @@
     "@pnpm/lockfile-file": "^1.1.2",
     "@pnpm/read-package-json": "^2.0.3",
     "immer": "^3.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "sorted-object": "^2.0.1"
   },
   "devDependencies": {
